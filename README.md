@@ -12,9 +12,7 @@
 ![Preview-Screens](https://github.com/luisscarlos/be-the-hero/blob/master/img/web-new-incident.PNG)
 
 ### App
-<img src="https://github.com/luisscarlos/be-the-hero/blob/master/img/app-spash.jpg" width="200" height="400" />
-<img src="https://github.com/luisscarlos/be-the-hero/blob/master/img/app-list.jpg" width="200" height="400" />
-<img src="https://github.com/luisscarlos/be-the-hero/blob/master/img/app-detail.jpg" width="200" height="400" />
+<img src="https://github.com/luisscarlos/be-the-hero/blob/master/img/app-all.jpg" />
 
 ### :rocket: Tecnologias usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
